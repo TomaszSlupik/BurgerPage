@@ -543,13 +543,3 @@ textarea {
 		height: 100%;
 	}
 }
-
-@media (min-width: 1400px) {
-	.menuburgerlist {
-		grid-template-columns: repeat(4, 1fr);
-		row-gap: 13px;
-		justify-content: center;
-		align-items: center;
-		height: 100%;
-	}
-}

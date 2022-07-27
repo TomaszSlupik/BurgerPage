@@ -536,7 +536,7 @@ textarea {
 
 @media (min-width: 992px) {
 	.menuburgerlist {
-		grid-template-columns: repeat(2, 1fr);
+		grid-template-columns: repeat(3, 1fr);
 		row-gap: 13px;
 		justify-content: center;
 		align-items: center;
